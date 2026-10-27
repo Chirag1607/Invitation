@@ -1,13 +1,10 @@
-Chirag Ki Yashika – Engagement Invitation with music
+Chirag Ki Yashika - Engagement Invitation
 
-Files:
-- index.html: invitation webpage
-- sahiba.m4a: the supplied song, played on loop
+Upload these files together into the same folder in your GitHub repository:
+- index.html
+- chandni.mp3
+- couple.jpg
 
-GitHub Pages setup:
-1. Upload BOTH index.html and sahiba.m4a to the same folder in your GitHub repository.
-2. Keep the audio filename exactly `sahiba.m4a` (lowercase).
-3. Enable GitHub Pages for the repository/branch if not already enabled.
-4. Open the published page and tap the C/Y seal. The song starts then and loops.
+The invitation plays Chandni Ne Puneya Te Jalsa Lagaya on loop after the visitor taps the seal or the Play Music button. The couple photo replaces the C♥Y placeholder on the story page.
 
-Note: mobile browsers usually block sound autoplay until the visitor taps the page.
+Important: browsers on iPhone/mobile usually require a user tap before audio can play. Keep all three files in the same folder so the relative paths work.
